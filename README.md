@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Arijit
-- 👀 I’m interested in FullStack Development...
-- 🌱 I’m currently learning Ai and ML...
-- 💞️ I’m looking to collaborate with freelancer...
-- 📫 
+👋 Hi, I’m Arijit Chatterjee
+🌐 Full Stack Developer 
+| 💻 Crafting elegant solutions from front-end to back-end 
+| 🚀 Passionate about coding, innovation & tech trends |
+
+
 
 
 <!---
